@@ -1,0 +1,14 @@
+{
+	"user": "naslinathmar",
+	"repo": "C_A_R_GAMEMODE",
+	"tag": "0.0.1",
+	"entry": "main.pwn",
+	"output": "gamemodes/main.amx",
+	"dependencies": [
+		"pawn-lang/samp-stdlib"
+	],
+	"local": true,
+	"runtime": {
+		"mode": "y_testing"
+	}
+}
